@@ -12,6 +12,7 @@ typedef struct BinaryTree node;
 int main(){
 	
 	node *root = NULL;
+	node *git_test;
 	
 	root = (node *)malloc(sizeof(node));
 	root->data = 10;
