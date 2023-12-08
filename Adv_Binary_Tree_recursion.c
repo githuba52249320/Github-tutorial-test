@@ -44,7 +44,6 @@ void print_Binary_Tree(node *root_ref){
 int main(){
 	
 	node *root = NULL;
-	node *test_git;
 	root = insertion_node(root, 3);
 	root = insertion_node(root, 4);
 	root = insertion_node(root, 8);
